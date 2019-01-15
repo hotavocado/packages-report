@@ -8,3 +8,5 @@ Another edit, now from Github in the browser
 Yet another edit from GitHub
 
 Planting a weird word: degust
+
+Planting top secret message: I <3 JB
